@@ -1,0 +1,146 @@
+[
+  {
+    "id": "Q001",
+    "question": "What is T300 expiry?",
+    "type": "timer",
+    "expected_identifiers": ["T300"],
+    "expected_terms": ["T300", "expiry"],
+    "answerable": true
+  },
+  {
+    "id": "Q002",
+    "question": "What is T311 expiry?",
+    "type": "timer",
+    "expected_identifiers": ["T311"],
+    "expected_terms": ["T311", "expiry"],
+    "answerable": true
+  },
+  {
+    "id": "Q003",
+    "question": "What happens when T311 expires?",
+    "type": "timer_procedure",
+    "expected_identifiers": ["T311"],
+    "expected_terms": ["T311", "expires"],
+    "answerable": true
+  },
+  {
+    "id": "Q004",
+    "question": "What is T300 used for?",
+    "type": "timer",
+    "expected_identifiers": ["T300"],
+    "expected_terms": ["T300"],
+    "answerable": true
+  },
+  {
+    "id": "Q005",
+    "question": "What is RRCSetupRequest?",
+    "type": "rrc_message",
+    "expected_identifiers": ["RRCSetupRequest"],
+    "expected_terms": ["RRCSetupRequest"],
+    "answerable": true
+  },
+  {
+    "id": "Q006",
+    "question": "What is RRCSetup?",
+    "type": "rrc_message",
+    "expected_identifiers": ["RRCSetup"],
+    "expected_terms": ["RRCSetup"],
+    "answerable": true
+  },
+  {
+    "id": "Q007",
+    "question": "What is RRCReestablishmentRequest?",
+    "type": "rrc_message",
+    "expected_identifiers": ["RRCReestablishmentRequest"],
+    "expected_terms": ["RRCReestablishmentRequest"],
+    "answerable": true
+  },
+  {
+    "id": "Q008",
+    "question": "What happens during RRC re-establishment?",
+    "type": "procedure",
+    "expected_identifiers": [],
+    "expected_terms": ["RRC", "re-establishment"],
+    "answerable": true
+  },
+  {
+    "id": "Q009",
+    "question": "What is RRCRelease?",
+    "type": "rrc_message",
+    "expected_identifiers": ["RRCRelease"],
+    "expected_terms": ["RRCRelease"],
+    "answerable": true
+  },
+  {
+    "id": "Q010",
+    "question": "What is RRCReconfiguration?",
+    "type": "rrc_message",
+    "expected_identifiers": ["RRCReconfiguration"],
+    "expected_terms": ["RRCReconfiguration"],
+    "answerable": true
+  },
+  {
+    "id": "Q011",
+    "question": "What is T301?",
+    "type": "timer",
+    "expected_identifiers": ["T301"],
+    "expected_terms": ["T301"],
+    "answerable": true
+  },
+  {
+    "id": "Q012",
+    "question": "What is T319?",
+    "type": "timer",
+    "expected_identifiers": ["T319"],
+    "expected_terms": ["T319"],
+    "answerable": true
+  },
+  {
+    "id": "Q013",
+    "question": "Explain RRC connection establishment.",
+    "type": "procedure",
+    "expected_identifiers": [],
+    "expected_terms": ["RRC", "connection", "establishment"],
+    "answerable": true
+  },
+  {
+    "id": "Q014",
+    "question": "What happens after RRCSetupRequest?",
+    "type": "procedure",
+    "expected_identifiers": ["RRCSetupRequest"],
+    "expected_terms": ["RRCSetupRequest"],
+    "answerable": true
+  },
+  {
+    "id": "Q015",
+    "question": "What is T999 expiry?",
+    "type": "negative",
+    "expected_identifiers": ["T999"],
+    "expected_terms": ["T999"],
+    "answerable": false
+  },
+  {
+    "id": "Q016",
+    "question": "What is T888 used for?",
+    "type": "negative",
+    "expected_identifiers": ["T888"],
+    "expected_terms": ["T888"],
+    "answerable": false
+  },
+  {
+    "id": "Q017",
+    "question": "What is ABC123 timer?",
+    "type": "negative",
+    "expected_identifiers": ["ABC123"],
+    "expected_terms": ["ABC123"],
+    "answerable": false
+  },
+  {
+    "id": "Q018",
+    "question": "Explain 5G RRC procedures.",
+    "type": "general",
+    "expected_identifiers": [],
+    "expected_terms": ["RRC"],
+    "answerable": true
+  }
+]

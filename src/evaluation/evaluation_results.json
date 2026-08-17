@@ -1,0 +1,208 @@
+{
+  "metrics": {
+    "total_queries": 18,
+    "average_identifier_score": 0.1667,
+    "average_term_score": 0.0,
+    "retrieval_success_rate": 0.0
+  },
+  "results": [
+    {
+      "id": "Q001",
+      "question": "What is T300 expiry?",
+      "type": "timer",
+      "answerable": true,
+      "identifier_score": 0.0,
+      "term_score": 0.0,
+      "identifier_hits": [],
+      "term_hits": [],
+      "retrieved_count": 4
+    },
+    {
+      "id": "Q002",
+      "question": "What is T311 expiry?",
+      "type": "timer",
+      "answerable": true,
+      "identifier_score": 0.0,
+      "term_score": 0.0,
+      "identifier_hits": [],
+      "term_hits": [],
+      "retrieved_count": 4
+    },
+    {
+      "id": "Q003",
+      "question": "What happens when T311 expires?",
+      "type": "timer_procedure",
+      "answerable": true,
+      "identifier_score": 0.0,
+      "term_score": 0.0,
+      "identifier_hits": [],
+      "term_hits": [],
+      "retrieved_count": 4
+    },
+    {
+      "id": "Q004",
+      "question": "What is T300 used for?",
+      "type": "timer",
+      "answerable": true,
+      "identifier_score": 0.0,
+      "term_score": 0.0,
+      "identifier_hits": [],
+      "term_hits": [],
+      "retrieved_count": 4
+    },
+    {
+      "id": "Q005",
+      "question": "What is RRCSetupRequest?",
+      "type": "rrc_message",
+      "answerable": true,
+      "identifier_score": 0.0,
+      "term_score": 0.0,
+      "identifier_hits": [],
+      "term_hits": [],
+      "retrieved_count": 4
+    },
+    {
+      "id": "Q006",
+      "question": "What is RRCSetup?",
+      "type": "rrc_message",
+      "answerable": true,
+      "identifier_score": 0.0,
+      "term_score": 0.0,
+      "identifier_hits": [],
+      "term_hits": [],
+      "retrieved_count": 4
+    },
+    {
+      "id": "Q007",
+      "question": "What is RRCReestablishmentRequest?",
+      "type": "rrc_message",
+      "answerable": true,
+      "identifier_score": 0.0,
+      "term_score": 0.0,
+      "identifier_hits": [],
+      "term_hits": [],
+      "retrieved_count": 4
+    },
+    {
+      "id": "Q008",
+      "question": "What happens during RRC re-establishment?",
+      "type": "procedure",
+      "answerable": true,
+      "identifier_score": 1.0,
+      "term_score": 0.0,
+      "identifier_hits": [],
+      "term_hits": [],
+      "retrieved_count": 4
+    },
+    {
+      "id": "Q009",
+      "question": "What is RRCRelease?",
+      "type": "rrc_message",
+      "answerable": true,
+      "identifier_score": 0.0,
+      "term_score": 0.0,
+      "identifier_hits": [],
+      "term_hits": [],
+      "retrieved_count": 4
+    },
+    {
+      "id": "Q010",
+      "question": "What is RRCReconfiguration?",
+      "type": "rrc_message",
+      "answerable": true,
+      "identifier_score": 0.0,
+      "term_score": 0.0,
+      "identifier_hits": [],
+      "term_hits": [],
+      "retrieved_count": 4
+    },
+    {
+      "id": "Q011",
+      "question": "What is T301?",
+      "type": "timer",
+      "answerable": true,
+      "identifier_score": 0.0,
+      "term_score": 0.0,
+      "identifier_hits": [],
+      "term_hits": [],
+      "retrieved_count": 4
+    },
+    {
+      "id": "Q012",
+      "question": "What is T319?",
+      "type": "timer",
+      "answerable": true,
+      "identifier_score": 0.0,
+      "term_score": 0.0,
+      "identifier_hits": [],
+      "term_hits": [],
+      "retrieved_count": 4
+    },
+    {
+      "id": "Q013",
+      "question": "Explain RRC connection establishment.",
+      "type": "procedure",
+      "answerable": true,
+      "identifier_score": 1.0,
+      "term_score": 0.0,
+      "identifier_hits": [],
+      "term_hits": [],
+      "retrieved_count": 4
+    },
+    {
+      "id": "Q014",
+      "question": "What happens after RRCSetupRequest?",
+      "type": "procedure",
+      "answerable": true,
+      "identifier_score": 0.0,
+      "term_score": 0.0,
+      "identifier_hits": [],
+      "term_hits": [],
+      "retrieved_count": 4
+    },
+    {
+      "id": "Q015",
+      "question": "What is T999 expiry?",
+      "type": "negative",
+      "answerable": false,
+      "identifier_score": 0.0,
+      "term_score": 0.0,
+      "identifier_hits": [],
+      "term_hits": [],
+      "retrieved_count": 4
+    },
+    {
+      "id": "Q016",
+      "question": "What is T888 used for?",
+      "type": "negative",
+      "answerable": false,
+      "identifier_score": 0.0,
+      "term_score": 0.0,
+      "identifier_hits": [],
+      "term_hits": [],
+      "retrieved_count": 4
+    },
+    {
+      "id": "Q017",
+      "question": "What is ABC123 timer?",
+      "type": "negative",
+      "answerable": false,
+      "identifier_score": 0.0,
+      "term_score": 0.0,
+      "identifier_hits": [],
+      "term_hits": [],
+      "retrieved_count": 4
+    },
+    {
+      "id": "Q018",
+      "question": "Explain 5G RRC procedures.",
+      "type": "general",
+      "answerable": true,
+      "identifier_score": 1.0,
+      "term_score": 0.0,
+      "identifier_hits": [],
+      "term_hits": [],
+      "retrieved_count": 4
+    }
+  ]
+}
