@@ -1686,4 +1686,5 @@ python app.py
 
 **Retrieve → Rerank → Ground → Generate → Validate**
 
-This is the core architecture of the **3GPP RAG Assistant**.
+This is the core architecture of the **3GPP RAG Assistant**.#   R A G _ A s s i s t a n t  
+ 
